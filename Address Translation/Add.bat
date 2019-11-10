@@ -1,0 +1,1 @@
+echo 192.168.0.10 pectnp >> C:\Windows\System32\drivers\etc\hosts
